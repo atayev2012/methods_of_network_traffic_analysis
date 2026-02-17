@@ -1,0 +1,12 @@
+# macOS specific files
+.DS_Store
+
+# PyCharm specific files and directories
+.idea/
+
+# Python specific files and directories
+__pycache__/
+.venv/
+
+# Dataframe files
+*.csv
